@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/electronic-sommelier/static/css/main.44b553b8.css",
+    "main.js": "/electronic-sommelier/static/js/main.68c82107.js",
+    "static/js/787.50cd4bd7.chunk.js": "/electronic-sommelier/static/js/787.50cd4bd7.chunk.js",
+    "static/media/cup.png": "/electronic-sommelier/static/media/cup.b3588f1dd477d11a2a81.png",
+    "index.html": "/electronic-sommelier/index.html",
+    "main.44b553b8.css.map": "/electronic-sommelier/static/css/main.44b553b8.css.map",
+    "main.68c82107.js.map": "/electronic-sommelier/static/js/main.68c82107.js.map",
+    "787.50cd4bd7.chunk.js.map": "/electronic-sommelier/static/js/787.50cd4bd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44b553b8.css",
+    "static/js/main.68c82107.js"
+  ]
+}
